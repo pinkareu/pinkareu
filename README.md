@@ -1,16 +1,11 @@
 ## Hi there  I'm Favour Nwanna! 👋
 
-I am a Computer Engineering student at the university of Toronto. 
+I am a Computer Engineering student at the University of Toronto. with a passion for learning!
 
-- Location: Toronto, ON  
 - LinkedIn: https://www.linkedin.com/in/favour-nwanna-96a0321a1/
   
 Project Demos:
 - https://www.youtube.com/playlist?list=PLBBlz9ZJ6Us5n-cvC_WHUyXH0HyOWvNsT
-
-
-## Summary
-Computer Engineering Student with a passion for learning. 
 
 ## Skills
 
