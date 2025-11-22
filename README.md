@@ -23,7 +23,7 @@ Computer Engineering Student with a passion for learning.
 # Current Projects
 
 
-## AI Support for Field Observation of Pollinators (Capstone)
+### AI Support for Field Observation of Pollinators (Capstone)
 
 Energy- and storage-efficient Raspberry Pi + AI-accelerator camera that saves images only when pollinators are detected.
 
@@ -33,7 +33,7 @@ Goals
 
 Demo: https://docs.google.com/presentation/d/1-ekvSvb6OnGtVCy4gm_6uExMt7TjkxSw58jJfrQJmH0/edit?usp=sharing
 
-## CSC309 — Loyalty Program Project (University of Toronto)
+### CSC309 — Loyalty Program Project (University of Toronto)
 Toronto, ON — Sep 2025 – Dec 2025
 
 Developing a responsive website for a loyalty program platform with features to manage points, redeem rewards, browse events, RSVP, and view transaction history. Implemented role-based interfaces and QR-code functionality, and integrated APIs with a Node.js / SQLite backend. Ensured usability and performance through pagination, filtering, and sorting for dynamic user data views. Collaborated with teammates on deployment, database seeding, and applied Agile practices to keep the codebase scalable and maintainable.
