@@ -1,4 +1,37 @@
-# AI Support for Field Observation of Pollinators (Capstone)
+## Hi there  I'm Favour Nwanna! 👋
+
+I am a Computer Engineering student at the university of Toronto. 
+
+- Location: Toronto, ON  
+- LinkedIn: https://www.linkedin.com/in/favour-nwanna-96a0321a1/
+  
+Project Demos:
+- https://www.youtube.com/playlist?list=PLBBlz9ZJ6Us5n-cvC_WHUyXH0HyOWvNsT
+
+
+## Summary
+Computer Engineering Studen with hands-on experience in full‑stack development, ML model training and deployment, and platform tooling for data and model pipelines.
+
+
+
+## Education
+**University of Toronto** — Bachelor of Applied Science in Computer Engineering  
+Toronto, ON — Sep 2021 – Jun 2026
+
+Relevant coursework: Operating Systems, Algorithms & Data Structures, Computer Organization, Systems Programming, Computer Networks, Applied Fundamentals of Deep Learning, Programming on the Web (Frontend), Databases (SQL)
+
+## Skills
+
+- Languages: C, C++, Python, JavaScript, SQL  
+- ML & Tools: PyTorch, Darts, Apache Airflow, SageMaker, Elasticsearch  
+- Infrastructure: Docker, OpenShift, Kubernetes, Git, Postman, Jenkins  
+- Databases: PostgreSQL, Elasticsearch, SQL  
+- Other: Tailwind CSS, Linux, Anaconda, CI/CD, Agile, JIRA, Confluence
+
+# Current Projects
+
+
+## AI Support for Field Observation of Pollinators (Capstone)
 
 Energy- and storage-efficient Raspberry Pi + AI-accelerator camera that saves images only when pollinators are detected.
 
@@ -8,20 +41,29 @@ Goals
 
 Key features
 - YOLO-based detector optimized for edge inference.
-- Raspberry Pi + Sony IMX500 camera sensor; supports Edge TPU/Movidius accelerators.
+- Raspberry Pi + Sony IMX500 camera sensor.
 - On-device logic to save images when detections exceed a confidence threshold.
 - Scripts to train, convert, and deploy models (see /models and /edge).
+Demo: https://docs.google.com/presentation/d/1-ekvSvb6OnGtVCy4gm_6uExMt7TjkxSw58jJfrQJmH0/edit?usp=sharing
 
-Quickstart
-1. git clone https://github.com/pinkareu/pinkareu.git
-2. Install dependencies: pip install -r models/requirements.txt && pip install -r edge/requirements.txt
-3. Convert a trained model (models/convert) and copy model + edge/ to the Pi.
-4. Run on the Pi: python3 edge/run_detection.py --model /path/to/model.tflite --conf 0.35 --save-dir /path/to/save
+## CSC309 — Loyalty Program Project (University of Toronto)
+Toronto, ON — Sep 2025 – Dec 2025
 
-Hardware
-- Raspberry Pi (see edge/HARDWARE.md for model specifics)
-- Sony IMX500 sensor
-- USB/NPU accelerator (e.g., Coral Edge TPU or Intel Movidius)
+Developing a responsive website for a loyalty program platform with features to manage points, redeem rewards, browse events, RSVP, and view transaction history. Implemented role-based interfaces and QR-code functionality, and integrated APIs with a Node.js / SQLite backend. Ensured usability and performance through pagination, filtering, and sorting for dynamic user data views. Collaborated with teammates on deployment, database seeding, and applied Agile practices to keep the codebase scalable and maintainable.
 
-Contact
-Favour Nwanna — https://www.linkedin.com/in/favour-nwanna-96a0321a1/
+Tech highlights
+- Backend: Node.js + SQLite (API endpoints, auth, role-based access)
+- Frontend: responsive UI, role-specific views, QR-code generation/scan support
+- Usability: pagination, filtering, sorting for large datasets
+- Team workflow: database seeding, deployment automation, Agile collaboration
+
+Repo: https://github.com/arielycliu/CSC309-Final-Project
+
+<!--
+**pinkareu/pinkareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently woring on ...
+
+-->
